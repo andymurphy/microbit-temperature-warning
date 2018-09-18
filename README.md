@@ -6,4 +6,6 @@ It can also be dragged onto the JavaScript Blocks editor and the editor will con
 
 The js file can be loaded into the JavaScript editor.
 
-I thin both will work this way with the Windows 10 app but I need to check this.
+I think both will work this way with the Windows 10 app but I need to check this.
+
+There is also a pdf containing some ideas on how this activity can be linked to museum learning.
