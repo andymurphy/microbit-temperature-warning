@@ -1,38 +1,4 @@
 
-
-Skip to JavaScript editor
-
-Select Language
-High Contrast On
-
-
-
-Projects
-
-Share
-
-Blocks
-
-JavaScript
-
-
-
-
-Simulator
-
-
-
-
-
-
-
-
-
-
-
-Explorer
-
-Basic
 // Set the brightness and declare the temp variable
 led.setBrightness(123)
 let temp = 0
@@ -56,40 +22,3 @@ basic.forever(() => {
             basic.pause(200)
         }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-No Results
-
-
-
-
-
-
-
-
-
-Download
-Type a name for your project
-
-
-
-
-
-
-
-
-
-
-
-
-
